@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Ultramarine Wayfire](https://github.com/samwhelp/ultramarine-wayfire-adjustment/tree/main/prototype/main/wayfire-config/full/wayfire-config-plus-theme-dark) |
+| [Ultramarine Wayfire](https://github.com/samwhelp/ultramarine-wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
 
 
 
