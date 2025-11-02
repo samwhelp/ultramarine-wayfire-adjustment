@@ -11,17 +11,17 @@
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Script](#script)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Script
 
-| Adjustment |
-| -------- |
-| [Ultramarine Wayfire Config](https://github.com/samwhelp/ultramarine-wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
+| Script |
+| ------ |
+| [Ultramarine Wayfire Config](https://github.com/samwhelp/ultramarine-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
 
 
 
