@@ -22,6 +22,7 @@
 | Script |
 | ------ |
 | [Ultramarine Wayfire Config](https://github.com/samwhelp/ultramarine-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
+| [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
